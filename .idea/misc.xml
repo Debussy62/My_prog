@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1835" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable/corner_bg.xml" value="0.183" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable/ic_baseline_collections.xml" value="0.183" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable/ic_baseline_library_add.xml" value="0.183" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable/ic_baseline_menu.xml" value="0.183" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable/ic_baseline_watch_later.xml" value="0.183" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1835" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/menu/menu_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Myprog/app/src/main/res/menu/top_app_bar.xml" value="0.15234375" />
       </map>
     </option>
   </component>
