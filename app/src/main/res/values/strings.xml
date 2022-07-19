@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My prog</string>
+    <string name="menu">menu</string>
+    <string name="search">search</string>
+    <string name="favorite">favorite</string>
+    <string name="setting">setting</string>
+    <string name="other">other</string>
+    <string name="todo">TODO</string>
+    <string name="compil">compil</string>
 </resources>
